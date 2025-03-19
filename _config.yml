@@ -1,11 +1,11 @@
 # Site settings
-title: Refine Blog
-SEOTitle: Refine1919的博客 | Refine Blog
+title: 王骏's Blog
+SEOTitle: 王骏的博客 | 王骏's Blog
 header-img: img/home-bg.jpg
-email: Refine1919@gmail.com
+email: pengyouwangjun@163.com
 description: "这里是 @Refine1919 的个人博客，与你一起发现更大的世界 | 要做一个有天天开心的人"
 keyword: "Refine1919, Refine1919, Refine1919, @Refine1919, Refine1919的博客,博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://Refine1919.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
