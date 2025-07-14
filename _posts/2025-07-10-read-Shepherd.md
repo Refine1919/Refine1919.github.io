@@ -5,8 +5,8 @@ author:       "Francis"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - 读书
+    - 经验感悟
 ---
 
 > 这或许是读书的真正意义：借一个个故事不断重复那些前人总结过无数遍的道理，让它真正进入你的潜意识，影响你的每个选择。而选择会决定命运。
