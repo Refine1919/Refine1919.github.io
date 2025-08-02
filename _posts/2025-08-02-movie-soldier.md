@@ -77,5 +77,5 @@ tags:
 ---
 
 <center>
-    <img src="https://refine1919.github.io/img/subscribe.png" style="width: 100px;">
+    <img src="https://refine1919.github.io/img/subscribe.png" style="width: 250px;">
 </center>
