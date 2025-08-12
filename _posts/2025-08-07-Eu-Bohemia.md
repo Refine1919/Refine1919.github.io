@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "短评：擦边女主播与劝学"
+title:        "东欧回忆录：波西米亚狂想曲"
 author:       "Francis"
 header-style: text
 catalog:      true
